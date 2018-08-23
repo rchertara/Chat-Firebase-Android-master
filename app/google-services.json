@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "616223151084",
+    "firebase_url": "https://chaat-masala.firebaseio.com",
+    "project_id": "chaat-masala",
+    "storage_bucket": "chaat-masala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616223151084:android:bf8db0deb73b906f",
+        "android_client_info": {
+          "package_name": "com.chaat_masala.chatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616223151084-6nf7p8rmraqp0oqg0lgbaptkqvssjl88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZI8OlmPhCLjRT_wa1ZacH32QEDwIdF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
